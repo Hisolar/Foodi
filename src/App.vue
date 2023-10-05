@@ -4,6 +4,7 @@ import Body from "./components/Body.vue";
 import Special from "./components/Special.vue";
 import Recipe from "./components/Recipe.vue";
 import Customer from "./components/Customer.vue";
+import Subscribe from "./components/Subscribe.vue";
 </script>
 
 <template>
@@ -13,6 +14,7 @@ import Customer from "./components/Customer.vue";
     <Special></Special>
     <Recipe></Recipe>
     <Customer></Customer>
+    <Subscribe></Subscribe>
   </div>
 </template>
 
