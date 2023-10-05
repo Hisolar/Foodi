@@ -12,7 +12,7 @@
         >
         <p class="text-xs">See All Feedback</p>
         <img
-          class="absolute left-48"
+          class="absolute left-5 lg:left-48"
           src="https://res.cloudinary.com/dxiflsxek/image/upload/v1696291354/man_ffqqra.svg"
           alt=""
         />

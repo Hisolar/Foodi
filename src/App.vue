@@ -5,6 +5,7 @@ import Special from "./components/Special.vue";
 import Recipe from "./components/Recipe.vue";
 import Customer from "./components/Customer.vue";
 import Subscribe from "./components/Subscribe.vue";
+import Footer from "./components/Footer.vue";
 </script>
 
 <template>
@@ -15,6 +16,7 @@ import Subscribe from "./components/Subscribe.vue";
     <Recipe></Recipe>
     <Customer></Customer>
     <Subscribe></Subscribe>
+    <Footer></Footer>
   </div>
 </template>
 
