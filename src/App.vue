@@ -1,5 +1,5 @@
 <script setup>
-import Header from "./components/header.vue";
+import Header from "./components/Header.vue";
 import Body from "./components/Body.vue";
 import Special from "./components/Special.vue";
 import Recipe from "./components/Recipe.vue";
